@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/usr/local/bin/python3",
+    "code-runner.customCommand": "rm -rf cache && /usr/local/bin/python3 \"/Users/ALEX/Documents/Term 6/50.012 Networks/lab1/proxy.py\""
+}
